@@ -75,7 +75,6 @@ public class Main {
         else {System.out.println("Вагон полностью забит.");}
 
         System.out.println("Задание 7.");
-
         int one = 97;
         System.out.println("Первое число = " + one + ".");
         int two = 198;
